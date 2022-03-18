@@ -1,2 +1,0 @@
-# bg-generator
-Testing github
