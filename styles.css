@@ -1,0 +1,36 @@
+html, body {
+    margin: 0;
+}
+
+.container {
+    margin-top: 5rem;
+
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.color-container {
+    margin-top: 3rem;
+
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.color {
+    margin: 15px;
+
+    border-radius: 5px;
+    background-color: white;
+}
+
+.colorchanger {
+    padding: 10px 25px;
+
+    font-size: 25px;
+
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
